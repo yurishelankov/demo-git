@@ -6,7 +6,7 @@ public class Guess {
         System.out.println("задумана буква  в диапазоне A-Z.");
         System.out.print("попытайтесь ее угадать:");
         ch = (char) System.in.read();
-        if (ch == answer) System.out.println("правильно!");
+        if (ch == answer) System.out.println(" правильно!");
 
     }
 
